@@ -5,6 +5,12 @@ This repository contains my submission for the Fundamentals of Data Analysis pro
 
 The submission is a jupyter notebook, which can be downloaded and run on any machine that has jupyter lab or notebook installed.
 
+The notebook loads the tips dataset and decribes the variables of the dataset. There are various plots to visualise the descriptions.
+
+There is analysis of the variables including an F Distribution test.
+
+Fianlly there is a regression to see if there is a relationship between total bill and tip.
+
 ## Installation of Jupyter Notebook [1]
 You can find the installation documentation for the
 [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html).
